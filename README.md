@@ -1,9 +1,18 @@
 
 # KURULUM
 
+> python3 -m venv env .
+> python3 -r requipment.txt
+
+```
+django-project-klasor/
+├── env
+```
+
 
 > django-admin startproject haberbulteni
 ```
+
 haberbulteni/
 ├── asgi.py
 ├── __init__.py
@@ -15,6 +24,7 @@ haberbulteni/
 ├── settings.py
 ├── urls.py
 └── wsgi.py
+├── env
 ```
 
 > python manage.py startapp haberler
