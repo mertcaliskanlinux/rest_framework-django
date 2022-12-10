@@ -1,8 +1,8 @@
 
 # KURULUM
 
-**python3 -m venv env
-**python3 -r requipment.txt
+>python3 -m venv env
+>python3 -r requipment.txt
 
 ```
 django-project-klasor/
