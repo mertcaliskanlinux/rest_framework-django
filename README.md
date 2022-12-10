@@ -1,7 +1,6 @@
 
 Tree:
-> Text that is a quote
-> 
+> django-admin startproject haberbulteni
 ```
 haberbulteni/
 ├── asgi.py
@@ -15,9 +14,10 @@ haberbulteni/
 ├── urls.py
 └── wsgi.py
 ```
+
+> python manage.py startapp haberler
+
 ```
-
-
 haberler/
 ├── admin.py
 ├── api
