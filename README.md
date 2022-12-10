@@ -60,3 +60,4 @@ haberler/
 ├── env
 
 ```
+> python manage.py runserver
