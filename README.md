@@ -1,5 +1,7 @@
 
-Tree:
+##KURULUM:
+
+
 > django-admin startproject haberbulteni
 ```
 haberbulteni/
