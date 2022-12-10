@@ -2,6 +2,7 @@
 # KURULUM
 
 python3 -m venv env
+> source env/bin/activate
 > python3 -r requipment.txt
 
 ```
@@ -9,7 +10,7 @@ django-project-klasor/
 ├── env
 ```
 
-
+source /env/bin/activate
 > django-admin startproject haberbulteni .
 ```
 
