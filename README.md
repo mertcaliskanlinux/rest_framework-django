@@ -1,5 +1,5 @@
 
-##KURULUM:
+# KURULUM
 
 
 > django-admin startproject haberbulteni
