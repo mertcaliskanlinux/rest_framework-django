@@ -37,9 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'haberler',
     'rest_framework',
     'django_extensions',
+    'haberler',
+    'kitaplar',
 ]
 
 MIDDLEWARE = [
