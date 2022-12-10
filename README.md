@@ -36,6 +36,13 @@ haberler/
 │   └── models.cpython-310.pyc
 ├── tests.py
 └── views.py
-
+```
+```
+├── manage.py
+├── README.md
+├── LICENSE.md
+├── requipment.txt
+├── db_sqlite3.sql
+├── env
 
 ```
