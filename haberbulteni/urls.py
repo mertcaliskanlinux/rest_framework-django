@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/',include('haberler.api.urls')),
     path('api_kitaplar/',include('kitaplar.api.urls')),
+    path('api-auth/',include('rest_framework.urls')),
 ]
