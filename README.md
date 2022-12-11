@@ -9,7 +9,7 @@ cd ..
 
 python3 -m venv env
 > source env/bin/activate
-**git clone https://github.com/mertcaliskanlnx/rest_framework-django.git
+```git clone https://github.com/mertcaliskanlnx/rest_framework-django.git```
 
 ###### python3 -r requipment.txt
 
