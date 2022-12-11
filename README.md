@@ -1,6 +1,12 @@
 
 # KURULUM
 
+cd .. 
+
+** mkdir home/Desktop/rest_app
+
+cd home/Desktop/rest_app**
+
 python3 -m venv env
 > source env/bin/activate
 ###### python3 -r requipment.txt
