@@ -61,5 +61,40 @@ haberler/
 ├── env
 
 ```
+```
+kitaplar/
+├── admin.py
+├── api
+│   ├── pagination.py
+│   ├── permission.py
+│   ├── __pycache__
+│   │   ├── pagination.cpython-310.pyc
+│   │   ├── permission.cpython-310.pyc
+│   │   ├── serializers.cpython-310.pyc
+│   │   ├── urls.cpython-310.pyc
+│   │   └── views.cpython-310.pyc
+│   ├── serializers.py
+│   ├── urls.py
+│   └── views.py
+├── apps.py
+├── __init__.py
+├── migrations
+│   ├── 0001_initial.py
+│   ├── 0002_alter_yorum_yorum_sahibi.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── 0001_initial.cpython-310.pyc
+│       ├── 0002_alter_yorum_yorum_sahibi.cpython-310.pyc
+│       └── __init__.cpython-310.pyc
+├── models.py
+├── __pycache__
+│   ├── admin.cpython-310.pyc
+│   ├── apps.cpython-310.pyc
+│   ├── __init__.cpython-310.pyc
+│   └── models.cpython-310.pyc
+├── tests.py
+└── views.py
+
+```
 **python3 manage.py runserver**
 >http://127.0.0.1:8000/api/yazarlar/
