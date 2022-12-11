@@ -94,7 +94,16 @@ kitaplar/
 │   └── models.cpython-310.pyc
 ├── tests.py
 └── views.py
+```
+```
+scripts/
+├── fake_data.py
+├── __init__.py
+└── __pycache__
+    ├── fake_data.cpython-310.pyc
+    └── __init__.cpython-310.pyc
+
 
 ```
 **python3 manage.py runserver**
->http://127.0.0.1:8000/api/yazarlar/
+>http://127.0.0.1:8000/api_kitaplar/kitaplar/
