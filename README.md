@@ -28,7 +28,7 @@ haberbulteni/
 ├── env
 ```
 
-> python manage.py startapp haberler
+> python3 manage.py startapp haberler
 
 ```
 haberler/
